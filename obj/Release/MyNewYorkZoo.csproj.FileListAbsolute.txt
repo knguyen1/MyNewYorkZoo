@@ -1,0 +1,6 @@
+C:\Users\knguyen\Documents\Visual Studio 2013\Projects\MyNewYorkZoo\MyNewYorkZoo\bin\Release\MyNewYorkZoo.exe.config
+C:\Users\knguyen\Documents\Visual Studio 2013\Projects\MyNewYorkZoo\MyNewYorkZoo\bin\Release\MyNewYorkZoo.exe
+C:\Users\knguyen\Documents\Visual Studio 2013\Projects\MyNewYorkZoo\MyNewYorkZoo\bin\Release\MyNewYorkZoo.pdb
+C:\Users\knguyen\Documents\Visual Studio 2013\Projects\MyNewYorkZoo\MyNewYorkZoo\obj\Release\MyNewYorkZoo.csprojResolveAssemblyReference.cache
+C:\Users\knguyen\Documents\Visual Studio 2013\Projects\MyNewYorkZoo\MyNewYorkZoo\obj\Release\MyNewYorkZoo.exe
+C:\Users\knguyen\Documents\Visual Studio 2013\Projects\MyNewYorkZoo\MyNewYorkZoo\obj\Release\MyNewYorkZoo.pdb
